@@ -1,8 +1,9 @@
 import React from 'react'
 import SearchIcon from '../img/search-icon.png'
 import HeartIcon from '../img/heart-icon.png'
-import CartIcon from '../img/cart1-icon.png'
+import CartIcon from '../img/Cart1-icon.png'
 import { NavLink } from 'react-router-dom'
+
 
 const Navbar = () => {
     return (
